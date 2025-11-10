@@ -1,0 +1,22 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore virtual environments
+.venv/
+env/
+venv/
+
+# Ignore environment variables
+.env
+# Ignore logs
+*.log
+*AI Engineering.pdf
+*toaz.info-the-hundred-page-machine-learning-book-pr_524b015c53f673facf9fc12c4a6c7729.pdf
+*G509X73ApplicationForm.pdf
+
