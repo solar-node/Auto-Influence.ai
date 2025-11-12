@@ -1,1 +1,2 @@
 pytrends
+python-linkedin-v2
